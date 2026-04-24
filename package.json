@@ -1,0 +1,18 @@
+{
+  "name": "week7-homework",
+  "version": "1.0.0",
+  "description": "第七週作業：第三方套件整合",
+  "main": "homework.js",
+  "scripts": {
+    "start": "node homework.js",
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
