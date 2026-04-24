@@ -18,7 +18,7 @@ API 串接練習延續使用學院的 [LiveJS 電商 API](https://hexschool.gith
 
 在專案根目錄建立 `.env` ，並在 `.env` 檔案中設定環境變數：
 
-```bash
+
 
 # 第七週作業 RD 筆記
 
